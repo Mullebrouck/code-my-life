@@ -3,5 +3,5 @@
 * [About](README.md)
 * [Pilot](introduction.md)
 * [Brainstorming](brainstorming.md)
-* Episodes
+* [Episodes](episodes.md)
 
