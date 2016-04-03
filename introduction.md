@@ -42,3 +42,10 @@ Being able to code is like having a superpower. You don't need to be superman to
 - browser console (word count, calculator)
 - input type password
 - bigrentz coworkers game
+
+# Channel name
+- Code my life
+- super power puff code
+- hack my life
+- code life
+- 10X coding
