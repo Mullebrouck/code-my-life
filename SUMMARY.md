@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Pilot](introduction.md)
-* Brainstorming
+* [Brainstorming](brainstorming.md)
 
