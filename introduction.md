@@ -27,7 +27,7 @@ Be James Bond
 Being able to code is like having a superpower. You don't need to be superman to do it, but sometimes it may seem like you need to be as smart as batman make something work. 
 
 
-# Future topics
+# Topics
 
 - JS.LA / ReactJS 
 - vim
