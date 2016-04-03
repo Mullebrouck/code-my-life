@@ -49,3 +49,4 @@ Being able to code is like having a superpower. You don't need to be superman to
 - hack my life
 - code life
 - 10X coding
+- aws ec2 computing on the cloud
