@@ -1,8 +1,8 @@
 # Summary
 
 * [About](README.md)
-* [Pilot](introduction.md)
 * [Episodes](episodes.md)
+   * [Pilot](introduction.md)
    * Episode 1
 * [Brainstorming](brainstorming.md)
 
