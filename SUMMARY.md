@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [About](README.md)
 * [Pilot](introduction.md)
 * [Brainstorming](brainstorming.md)
 
