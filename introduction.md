@@ -39,4 +39,4 @@ Being able to code is like having a superpower. You don't need to be superman to
 - google prediction api
 - google maps
 - coding as super powers
-
+- browser console
