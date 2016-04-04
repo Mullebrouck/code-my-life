@@ -23,3 +23,9 @@
 - code life
 - 10X coding
 - aws ec2 computing on the cloud
+
+
+## Marketing
+
+- Kickstarter
+- reddit
