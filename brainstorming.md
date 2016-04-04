@@ -6,15 +6,15 @@
 - vim
 - coffee
 - oracul
-- learn to type
+- how i learned to type all over again
 - quick search algorithm
 - babel
 - google prediction api
-- google maps
+- using google maps
 - coding as super powers
 - browser console (word count, calculator)
 - input type password
-- bigrentz coworkers game
+- bigrentz coworkers game (matching game) 
 
 ## Channel name
 - Code my life
@@ -29,3 +29,7 @@
 
 - Kickstarter
 - reddit
+- Tumblr
+- Blog 
+- IndieGoGo
+- 
