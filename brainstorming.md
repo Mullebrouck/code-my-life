@@ -7,7 +7,7 @@
 - coffee
 - oracul
 - learn to type
-- quick search algo
+- quick search algorithm
 - babel
 - google prediction api
 - google maps
