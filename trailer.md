@@ -1,7 +1,8 @@
 # Trailer
 
 ## Script
-[Animation intro]
+**[Animation intro]**
+
 > Hi, welcome to **Code my Life.**
 
 > In this YouTube channel we talk about 
