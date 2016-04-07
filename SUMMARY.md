@@ -4,6 +4,6 @@
 * [Episodes](episodes.md)
    * [Pilot](introduction.md)
    * Episode 1
-   * Trailer
+   * [Trailer](trailer.md)
 * [Brainstorming](brainstorming.md)
 
