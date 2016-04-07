@@ -9,8 +9,6 @@ What is this?
 > This YouTube channel is about 
 > How to use coding to improve our lives.
 
-> Code makes our lives way easier, and more fun.
-
 Who am I?
 > My name is Jorge Cuadra, I'm a Software Engineer based in California.
 
