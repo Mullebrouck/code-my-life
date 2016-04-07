@@ -19,7 +19,7 @@
 ![](meme.jpg)
 
 Who is this channel for?
-> If you like coding or you are interested in coding, you should watch this channel.
-> If feel your life sucks 90% you
-> If your life sucks 20% you
-> If your life sucks at least 1%, you need to watch this channel
+> - If you like coding or you are interested in coding, you should watch this channel.
+> - If feel your life sucks 90% you definetily need to watch this channel
+> - If your life sucks 20% you need to watch this channel
+> - If your life sucks 1% or less, you *still* need to watch this channel
