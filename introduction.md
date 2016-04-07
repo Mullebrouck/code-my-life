@@ -8,14 +8,20 @@ Channel about coding as a super power.
 Not limited to super heroes.
 Athletes, musicians, writers, coders.
 
-## Flying as a super power 
+
+
+
+
+## Brainstorming
+
+### Flying as a super power 
 What would you do if you had a super power eg. flying
 Save time in commutes
 Earn 10X in TaskRabbit
 YouTube channel about how to fly
 
 
-## Coding is a super power
+### Coding is a super power
 Writing is a power
 Coding is a super power
 Automate things
