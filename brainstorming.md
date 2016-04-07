@@ -4,7 +4,7 @@
 
 - JS.LA / ReactJS 
 - vim
-- coffee
+- how to brew drip coffee
 - oracul
 - how i learned to type all over again
 - quick search algorithm
@@ -15,6 +15,7 @@
 - browser console (word count, calculator)
 - input type password
 - bigrentz coworkers game (matching game) 
+- meme generator
 
 ## Channel name
 - Code my life
