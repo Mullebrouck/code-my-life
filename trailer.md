@@ -15,6 +15,8 @@
 > I've received a lot of help while I followed my passion to become a Software Engineer. That's why I feel the commitment to give back and share my learnings with others.
 
 [ **Meme:** Brace yourselves because tips are coming.]
+[meme generator](https://memegenerator.net/instance2/5138173)
+![](meme.jpg)
 
 Who is this channel for?
 > If you like coding or you are interested in coding, you should watch this channel.
