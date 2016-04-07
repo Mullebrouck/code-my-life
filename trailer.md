@@ -26,5 +26,8 @@ Why do I do it?
 Who is this channel for?
 > - If you like coding or you are interested in coding, you should watch this channel.
 > - If you feel your life sucks 90%, you **definitely** need to watch this channel
-> - If your life sucks 20% you need to watch this channel
+> - If your life sucks 20% you **need** to watch this channel
 > - If your life sucks 1% or less, you *still* need to watch this channel
+
+Closing
+> So be proactive and subscribe right now, to receive tips and tricks from **Code my life**
