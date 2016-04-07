@@ -7,13 +7,14 @@
 
 What is this?
 > This YouTube channel is about 
-> how to use coding to improve our lives.
+> How to use coding to improve our lives.
 
-> The programming language shown in these videos is JavaScript, because it's the most used language in the World.
+> Code makes our lives way easier, and more fun.
 
 Who am I?
 > My name is Jorge Cuadra, I'm a Software Engineer based in California.
 
+Why do I do it?
 > Throughout my journey to become a Software Engineer, I've received a lot of help from the *software community*. 
 
 > That's why I feel the commitment to pay it forward by share my learnings with others.
