@@ -5,14 +5,18 @@
 
 > Hi, welcome to **Code my Life.**
 
+What is this?
 > This YouTube channel is about 
 > how to use coding to improve our lives.
 
 > The programming language shown in these videos is JavaScript, because it's the most used language in the World.
 
-> My name is Jorge Cuadra, I'm a Software Engineer in California.
+Who am I?
+> My name is Jorge Cuadra, I'm a Software Engineer based in California.
 
-> I've received a lot of help while I followed my passion to become a Software Engineer. That's why I feel the commitment to give back and share my learnings with others.
+> Throughout my journey to become a Software Engineer, I've received a lot of help from the *software community*. 
+
+> That's why I feel the commitment to pay it forward by share my learnings with others.
 
 [ **Meme:** Brace yourselves because tips are coming.]
 [meme generator](https://memegenerator.net/instance2/5138173)
