@@ -1,8 +1,14 @@
 # Pilot Episode
 
-> Super Power Coding is a YouTube channel about coding as a super power.
+> Browser Console - a swiss army knife
 
+Practical use cases:
 
+- pick a color
+- calculator
+- count words
+- count characters
+- 
 
 
 
