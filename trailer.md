@@ -31,5 +31,9 @@ How can code help you?
 > - learn tips and tricks to be faster at your job
 > - take advantage of apps you already have installed like your browser
 
+[shuffle video clips]
+[time lapse]
+[drone shot]
+
 Closing
 > So be proactive and subscribe right now, to receive tips and tricks from **Code my life**
