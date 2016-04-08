@@ -4,7 +4,7 @@
 
 - JS.LA / ReactJS 
 - vim
-- how to brew drip coffee
+- how to brew drip coffee (set a mini app to calculate the coffee per water)
 - oracul
 - how i learned to type all over again
 - quick search algorithm
