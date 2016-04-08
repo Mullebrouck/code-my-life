@@ -17,6 +17,12 @@
 - bigrentz coworkers game (matching game) 
 - meme generator
 
+## Tags
+> have different levels of videos
+- newbie
+- intermediate
+- expert
+
 ## Channel name
 - **Code my life**
 - super power puff code
