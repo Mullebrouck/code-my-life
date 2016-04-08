@@ -16,6 +16,8 @@
 - input type password
 - bigrentz coworkers game (matching game) 
 - meme generator
+- Mac vs PC
+- React vs Angular
 
 ## Tags
 > have different levels of videos
