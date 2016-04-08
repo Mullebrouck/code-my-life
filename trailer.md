@@ -28,8 +28,8 @@ Who is this channel for?
 > - If your life sucks 1% or less, you *still* need to watch this channel
 
 How can code help you?
-> learn tips and tricks to be faster at your job
-> 
+> - learn tips and tricks to be faster at your job
+> - take advantage of apps you already have installed like your browser
 
 Closing
 > So be proactive and subscribe right now, to receive tips and tricks from **Code my life**
