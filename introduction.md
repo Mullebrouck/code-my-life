@@ -15,9 +15,9 @@ Practical use cases:
 
 ```javascript
 btoa('hey you!')
-"aGV5IHlvdSE="
+// "aGV5IHlvdSE="
 atob("aGV5IHlvdSE=")
-"hey you!"
+// "hey you!"
 ```
 
 
