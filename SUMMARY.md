@@ -6,4 +6,5 @@
    * [Pilot](introduction.md)
    * Episode 1
 * [Brainstorming](brainstorming.md)
+* Video
 
