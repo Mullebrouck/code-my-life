@@ -19,7 +19,7 @@
 - Mac vs PC
 - React vs Angular
 - Apps vs Web Apps
-- MVP (lean startup)
+- MVP (lean startup) (wizzard of Oz technique)
 - how hard it is to build an app
 - white boarding (mind mapping)
 - Product management, scrum
@@ -31,6 +31,11 @@
 - expert
 
 ## Featured guests
+- Rogelio Ramos
+- Justin Lane
+- Adrian Nieto
+- Kaatje
+- Anna Sork
 
 ## Giveaways
 - 15 min call 
