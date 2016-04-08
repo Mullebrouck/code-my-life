@@ -5,7 +5,7 @@
    * [Trailer](trailer.md)
    * [Pilot](introduction.md)
    * Episode 1
-   * Kickstarter
+   * [Kickstarter](kickstarter.md)
 * [Brainstorming](brainstorming.md)
 * [Video](video.md)
 
