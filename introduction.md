@@ -10,6 +10,8 @@ Practical use cases:
 - count characters
 - reveal a password
 - top secret messages with btoa atob
+- remove popup ads
+- access to secret content on quiz websites
 
 ```javascript
 btoa('hey you!')
