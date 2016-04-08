@@ -26,11 +26,14 @@
 
 ## Marketing
 
+### Distribution
 - Kickstarter
 - reddit
 - Tumblr
 - Blog 
 - IndieGoGo
+- Twitter
+- LinkedIn
 
 ## Channel name
 - **Code my life**
