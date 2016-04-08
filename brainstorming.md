@@ -18,7 +18,7 @@
 - meme generator
 
 ## Channel name
-- Code my life
+- **Code my life**
 - super power puff code
 - hack my life
 - code life
