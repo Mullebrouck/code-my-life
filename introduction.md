@@ -9,7 +9,7 @@ Practical use cases:
 - count words
 - count characters
 - reveal a password
-
+- top secret messages with btoa atob
 
 
 
