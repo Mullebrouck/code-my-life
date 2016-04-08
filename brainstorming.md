@@ -30,6 +30,10 @@
 - intermediate
 - expert
 
+## Featured guests
+
+## Giveaways
+- 15 min call 
 
 ## Marketing
 
