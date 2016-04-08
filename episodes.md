@@ -4,6 +4,13 @@
 
 
 ## Brainstorming
+---
+
+### Super powers:
+
+Channel about coding as a super power.
+Not limited to super heroes.
+Athletes, musicians, writers, coders.
 
 #### Flying as a super power 
 What would you do if you had a super power eg. flying
