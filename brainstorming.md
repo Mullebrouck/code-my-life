@@ -23,14 +23,6 @@
 - intermediate
 - expert
 
-## Channel name
-- **Code my life**
-- super power puff code
-- hack my life
-- code life
-- 10X coding
-- aws ec2 computing on the cloud
-
 
 ## Marketing
 
@@ -39,4 +31,12 @@
 - Tumblr
 - Blog 
 - IndieGoGo
-- 
+
+## Channel name
+- **Code my life**
+- super power puff code
+- hack my life
+- code life
+- 10X coding
+- aws ec2 computing on the cloud
+
