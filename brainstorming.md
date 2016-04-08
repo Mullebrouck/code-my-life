@@ -22,6 +22,7 @@
 - MVP (lean startup)
 - how hard it is to build an app
 - white boarding (mind mapping)
+- Product management, scrum
 
 ## Tags
 > have different levels of videos
