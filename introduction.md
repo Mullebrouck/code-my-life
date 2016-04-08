@@ -8,7 +8,7 @@ Practical use cases:
 - calculator
 - count words
 - count characters
-- 
+- reveal a password
 
 
 
