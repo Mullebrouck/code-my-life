@@ -7,7 +7,7 @@
 #### Present the team
 
 ##### Donald
-> VP in Video
+> Producer
 
 ##### Jorge
 > Software Engineer
@@ -20,12 +20,22 @@ Hello
 
 ## Pledges
 ### $1
+- a snapchat thankyou
 
-### $25+
-- tshirts
+### $5
+- Mention in pledge webpage
 
-### $35+
-- 
+### $8
+
+### $13
+
+### $21+
+- tshirt
+
+### $34+
+
+### $1000+
+- Put your name on the channel for one episode
 
 - 
 
