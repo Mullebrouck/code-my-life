@@ -1,7 +1,7 @@
 # Episode 2
 > Make diagrams with pseudo-code
 
-- mermaidJS
+- [mermaidJS](http://knsv.github.io/mermaid/live_editor/)
 - example: how to make lemonade
 
 ```
