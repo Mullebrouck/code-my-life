@@ -6,7 +6,7 @@
    * [Trailer](trailer.md)
    * [Chrome console](introduction.md)
    * [Speed test](episode_1.md)
-   * [Episode 2](episode_2.md)
+   * [Diagrams mermaid](episode_2.md)
    * Episode 3
 * [Brainstorming](brainstorming.md)
 * [Video](video.md)
