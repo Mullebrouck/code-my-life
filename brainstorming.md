@@ -23,7 +23,6 @@
 - how hard it is to build an app
 - white boarding (mind mapping)
 - Product management, scrum
-- Tjmaxx hack
 - batman voice
 - immutable vs mutable code
 - behind the scenes
