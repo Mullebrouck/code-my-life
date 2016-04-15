@@ -33,6 +33,7 @@
 - Drawing
 - Fast and driven learner
 - not male
+- piano
 
 ## Pledges
 ### $1
