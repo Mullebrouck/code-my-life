@@ -34,18 +34,18 @@ Hello
 - tshirt
 
 ### $55+
-- 
+- Be
 
 ### $89+
-- 
-
-### $144
-- video call 30min
 - ping pong paddle signed by the team
 
-### $1000+
-- Put your name on the channel for one episode
-- Pick the topic of a video (software related)
+### $144
+- video call 10min
 
+### $1000+
+- Be a sponsor
+
+### $10,000+
+- produce a video about your company
 
 
