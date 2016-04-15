@@ -5,6 +5,7 @@
 - good lightning is crucial for the video quality
 
 
+
 ## In front of the camera
 - always look straight at the camera 
 - zoom in your face as much as possible
