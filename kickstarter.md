@@ -14,6 +14,9 @@
 ##### Jorge
 > Software Engineer
 
+- JavaScript, ReactJS, NodeJS
+- coding professionally since 2011
+- 
 
 
 ##### Kaatje
