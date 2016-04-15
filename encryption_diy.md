@@ -1,6 +1,6 @@
 # Encryption DIY
 
-- be a James Bond
+- instant message like James Bond
 - top secret messages with btoa atob
 ```javascript
 btoa('hey you!')
