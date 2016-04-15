@@ -10,6 +10,10 @@
 ##### Donald
 > Producer
 
+- Video commercial
+- Short films
+- Software bootcamp (Javascript)
+- Photography
 
 ##### Jorge
 > Software Engineer
@@ -23,6 +27,10 @@
 ##### Kaatje
 > UX/UI Designer
 
+- Sketch, Adobe indesign, 
+- Silicon Valley
+- Drawing
+- Fast learner
 
 
 
