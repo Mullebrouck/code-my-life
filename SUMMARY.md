@@ -11,6 +11,7 @@
    * [Reveal passwords](reveal_passwords.md)
    * [Calculator](calculator.md)
    * [Break web pages](break_web_pages.md)
+   * Super powers
 * [Brainstorming](brainstorming.md)
 * [Video](video.md)
 
