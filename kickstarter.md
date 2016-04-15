@@ -26,7 +26,7 @@ Hello
 - Mention in pledge webpage
 
 ### $8+
-- follow you back on twitter
+- tweet at you
 
 ### $13+
 - We will wish you good luck
