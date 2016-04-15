@@ -1,5 +1,7 @@
 # Calculator
 
+> Google Chrome's calculator
+
 - calculator for aritmetic operations
 ```javascript
 1 + 2
