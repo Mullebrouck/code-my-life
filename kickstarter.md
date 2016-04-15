@@ -23,7 +23,7 @@
 ##### Kaatje
 > UX/UI Designer
 
-- party animal
+
 
 
 ## Pledges
