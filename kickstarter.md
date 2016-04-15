@@ -16,8 +16,9 @@
 
 - JavaScript, ReactJS, NodeJS
 - coding professionally since 2011
+- worked in Silicon Valley 
+- coded webpages 14 yrs old
 - 
-
 
 ##### Kaatje
 > UX/UI Designer
