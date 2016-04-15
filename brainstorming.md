@@ -8,7 +8,6 @@
 - oracul
 - how I learned to type all over again
 - quick search algorithm
-- babel
 - google prediction api
 - using google maps
 - bigrentz coworkers game (matching game) 
