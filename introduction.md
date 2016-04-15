@@ -1,8 +1,8 @@
-# Short Episodes
+# Chrome devtools series
 
 > Browser Console - a swiss army knife
 
-Practical use cases:
+Mini episodes:
 
 - pick a color
 - calculator
