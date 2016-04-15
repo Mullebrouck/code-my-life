@@ -1,4 +1,4 @@
-# Pilot Episode
+# Short Episodes
 
 > Browser Console - a swiss army knife
 
