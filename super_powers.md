@@ -9,7 +9,6 @@ Athletes, musicians, writers, coders.
 - Earn 10X in TaskRabbit
 - YouTube channel about how to fly
 
-
 #### Coding is a super power
 Writing is a power
 Coding is a super power
