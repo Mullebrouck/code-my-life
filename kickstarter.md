@@ -13,7 +13,6 @@
 
 ##### Kaatje
 > UX/UI Designer
- 
 
 ## Rewards
 - tshirts
