@@ -8,7 +8,6 @@ Mini episodes:
 - calculator
 - count words
 - count characters
-- reveal a password
 - remove popup ads
 - access the answers content on quiz websites
 
