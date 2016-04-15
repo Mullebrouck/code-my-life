@@ -34,6 +34,12 @@ Hello
 
 ### $34+
 
+### $55+
+
+### $89+
+
+### $144
+
 ### $1000+
 - Put your name on the channel for one episode
 
