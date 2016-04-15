@@ -32,7 +32,7 @@
 - Silicon Valley
 - Drawing
 - Fast and driven learner
-- female
+- not male (but white)
 
 ## Pledges
 ### $1
