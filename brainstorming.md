@@ -26,12 +26,12 @@
 - Tjmaxx hack
 - batman voice
 - immutable vs mutable code
+- behind the scenes
 
 ## Tags
 > have different levels of videos
 - newbie
-- intermediate
-- expert
+- experienced
 
 ## Featured guests
 - Rogelio Ramos
