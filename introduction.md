@@ -5,7 +5,6 @@
 Mini episodes:
 
 - pick a color
-- calculator
 - count words
 - count characters
 - remove popup ads
