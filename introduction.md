@@ -9,6 +9,7 @@ Mini episodes:
 - count characters
 - remove popup ads
 - access the answers content on quiz websites
+- Tjmaxx hack
 
 
 
