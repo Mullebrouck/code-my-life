@@ -12,6 +12,7 @@
    * [Calculator](calculator.md)
    * [Break web pages](break_web_pages.md)
    * [Super powers](super_powers.md)
+   * BabelJS for prod
 * [Brainstorming](brainstorming.md)
 * [Video](video.md)
 
