@@ -7,7 +7,7 @@
    * [Chrome console](introduction.md)
    * [Speed test](episode_1.md)
    * [Diagrams mermaid](episode_2.md)
-   * Color picker
+   * Encryption DIY
 * [Brainstorming](brainstorming.md)
 * [Video](video.md)
 
