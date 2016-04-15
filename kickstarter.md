@@ -5,8 +5,6 @@
 
 ### Intro
 
-#### Present the team
-
 
 ##### Donald
 > Producer
