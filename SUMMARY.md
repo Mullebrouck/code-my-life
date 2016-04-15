@@ -8,6 +8,7 @@
    * [Speed test](episode_1.md)
    * [Diagrams mermaid](episode_2.md)
    * [Encryption DIY](encryption_diy.md)
+   * Reveal passwords
 * [Brainstorming](brainstorming.md)
 * [Video](video.md)
 
