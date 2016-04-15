@@ -2,9 +2,9 @@
 
 * [About](README.md)
 * [Episodes](episodes.md)
+   * [Kickstarter](kickstarter.md)
    * [Trailer](trailer.md)
    * [Chrome console](introduction.md)
-   * [Kickstarter](kickstarter.md)
    * [Episode 1](episode_1.md)
    * [Episode 2](episode_2.md)
    * Episode 3
