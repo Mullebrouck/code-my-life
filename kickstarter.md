@@ -6,13 +6,14 @@
 
 #### Present the team
 
+
 ##### Donald
 > Producer
 
 ##### Jorge
 > Software Engineer
 
-Hello
+
 
 ##### Kaatje
 > UX/UI Designer
