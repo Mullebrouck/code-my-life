@@ -6,7 +6,7 @@
 - vim
 - how to brew drip coffee (set a mini app to calculate the coffee per water)
 - oracul
-- how i learned to type all over again
+- how I learned to type all over again
 - quick search algorithm
 - babel
 - google prediction api
