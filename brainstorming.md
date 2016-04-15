@@ -11,9 +11,6 @@
 - babel
 - google prediction api
 - using google maps
-- coding as super powers
-- browser console (word count, calculator)
-- input type password
 - bigrentz coworkers game (matching game) 
 - meme generator
 - Mac vs PC
