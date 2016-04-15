@@ -10,7 +10,7 @@
    * [Encryption DIY](encryption_diy.md)
    * [Reveal passwords](reveal_passwords.md)
    * [Calculator](calculator.md)
-   * Break web pages
+   * [Break web pages](break_web_pages.md)
 * [Brainstorming](brainstorming.md)
 * [Video](video.md)
 
