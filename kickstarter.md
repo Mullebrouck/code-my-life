@@ -7,7 +7,8 @@
 
 - Youtube channel
 - About Software and UI/UX
-- 
+- Practical tips for newbies and experienced coders
+- Give back to the community
 
 ### Present team
 
