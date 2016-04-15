@@ -5,7 +5,7 @@
 
 ### Intro
 
-- Youtube channel
+- YouTube channel
 - About Software and UI/UX
 - Practical tips for newbies and experienced coders
 - Give back to the community
