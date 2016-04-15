@@ -31,8 +31,7 @@
 - Sketch, Adobe indesign, 
 - Silicon Valley
 - Drawing
-- Fast learner
-
+- Fast and driven learner
 
 
 ## Pledges
