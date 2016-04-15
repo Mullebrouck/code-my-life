@@ -6,6 +6,7 @@
    * [Pilot](introduction.md)
    * [Kickstarter](kickstarter.md)
    * [Episode 1](episode_1.md)
+   * Episode 2
 * [Brainstorming](brainstorming.md)
 * [Video](video.md)
 
