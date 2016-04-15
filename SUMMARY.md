@@ -9,7 +9,7 @@
    * [Diagrams mermaid](episode_2.md)
    * [Encryption DIY](encryption_diy.md)
    * [Reveal passwords](reveal_passwords.md)
-   * Calculator
+   * [Calculator](calculator.md)
 * [Brainstorming](brainstorming.md)
 * [Video](video.md)
 
