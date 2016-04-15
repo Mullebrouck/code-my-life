@@ -1,5 +1,5 @@
 # Speed test
-> Honest internet speed test, EVERY WIRELESS PROVIDERS DIRTY SECRET
+> Honest internet speed test, LIES YOUR INTERNET SERVICE PROVIDER HAS TOLD YOU
 
 - install the npm package
 ```
