@@ -13,12 +13,7 @@ Mini episodes:
 - remove popup ads
 - access the answers content on quiz websites
 
-```javascript
-btoa('hey you!')
-// "aGV5IHlvdSE="
-atob("aGV5IHlvdSE=")
-// "hey you!"
-```
+
 
 
 
