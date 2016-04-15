@@ -22,12 +22,12 @@ Hello
 ### $1
 - a snapchat thankyou
 
-### $5
+### $5+
 - Mention in pledge webpage
 
-### $8
+### $8+
 
-### $13
+### $13+
 
 ### $21+
 - tshirt
