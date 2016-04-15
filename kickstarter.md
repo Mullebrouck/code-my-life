@@ -5,6 +5,11 @@
 
 ### Intro
 
+- Youtube channel
+- About Software and UI/UX
+- 
+
+### Present team
 
 #### Donald
 > Producer
