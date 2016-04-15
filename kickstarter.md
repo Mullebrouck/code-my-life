@@ -14,6 +14,7 @@
 - Short films
 - Software bootcamp (Javascript)
 - Photography
+- Youtube expert
 
 ##### Jorge
 > Software Engineer
