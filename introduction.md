@@ -1,4 +1,4 @@
-# Chrome devtools series
+# Color picker and text counter
 
 > Browser Console - a swiss army knife
 
