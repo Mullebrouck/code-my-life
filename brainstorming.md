@@ -27,8 +27,6 @@
 - batman voice
 - immutable vs mutable code
 - behind the scenes
-- honest internet speed-test
-- mermaid diagrams
 
 ## Tags
 > have different levels of videos
