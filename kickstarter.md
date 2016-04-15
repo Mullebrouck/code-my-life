@@ -35,7 +35,7 @@ Hello
 - tshirt
 
 ### $55+
-- Be
+- ebook with 10 ultimate code tips
 
 ### $89+
 - ping pong paddle signed by the team
