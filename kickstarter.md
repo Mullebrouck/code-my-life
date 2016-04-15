@@ -40,6 +40,12 @@
 - not male
 - piano
 
+### Motivation
+
+- share our knowledge
+- pay it forward
+- 
+
 ## Pledges
 ### $1
 - a snapchat thankyou
