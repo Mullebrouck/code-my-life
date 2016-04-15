@@ -1,4 +1,4 @@
-# Episode 1
+# Speed test
 > Honest internet speed test
 
 - install the npm package
