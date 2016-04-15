@@ -1,4 +1,4 @@
-# Episode 2
+# Diagrams mermaid
 > Make diagrams with pseudo-code
 
 - [mermaidJS](http://knsv.github.io/mermaid/live_editor/)
