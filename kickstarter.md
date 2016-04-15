@@ -6,7 +6,7 @@
 ### Intro
 
 
-##### Donald
+#### Donald
 > Producer
 
 - Video commercial
@@ -15,7 +15,7 @@
 - Photography
 - Youtube expert
 
-##### Jorge
+#### Jorge
 > Software Engineer
 
 - JavaScript, ReactJS, NodeJS
@@ -24,7 +24,7 @@
 - coded webpages 14 yrs old
 - 
 
-##### Kaatje
+#### Kaatje
 > UX/UI Designer
 
 - Sketch, Adobe indesign, 
