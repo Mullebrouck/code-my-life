@@ -5,7 +5,6 @@
 - JS.LA / ReactJS 
 - vim
 - how to brew drip coffee (set a mini app to calculate the coffee per water)
-- oracul
 - how I learned to type all over again
 - quick search algorithm
 - google prediction api
