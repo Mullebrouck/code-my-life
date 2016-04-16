@@ -9,7 +9,7 @@
 - quick search algorithm
 - google prediction api
 - using google maps
-- bigrentz coworkers game (matching game) 
+- BigRentz coworkers game (matching game) 
 - meme generator
 - Mac vs PC
 - React vs Angular
