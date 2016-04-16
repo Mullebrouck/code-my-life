@@ -32,7 +32,6 @@
 - Rogelio Ramos
 - Justin Lane
 - Adrian Nieto
-- Kaatje
 - Anna Sork
 
 ## Giveaways
