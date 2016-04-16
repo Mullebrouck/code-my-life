@@ -13,6 +13,7 @@
    * [Break web pages](break_web_pages.md)
    * [Super powers](super_powers.md)
    * [BabelJS for prod](babeljs_for_prod.md)
+   * Ask Oracul
 * [Brainstorming](brainstorming.md)
 * [Video](video.md)
 
