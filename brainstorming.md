@@ -22,7 +22,7 @@
 - batman voice
 - immutable vs mutable code
 - behind the scenes
-- Be careful with DRY (don't repeat yourself) 
+- Careful with DRY (don't repeat yourself) 
 
 ## Tags
 > have different levels of videos
