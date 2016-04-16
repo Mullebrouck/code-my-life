@@ -13,7 +13,7 @@
 - meme generator
 - Mac vs PC
 - React vs Angular
-- Apps vs Web Apps
+- Native vs Web Apps
 - MVP (lean startup) (wizzard of Oz technique)
 - how hard it is to build an app
 - white boarding (mind mapping)
