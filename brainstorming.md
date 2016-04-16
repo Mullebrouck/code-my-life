@@ -22,6 +22,7 @@
 - immutable vs mutable code
 - behind the scenes
 - Careful with DRY (don't repeat yourself) 
+- AWS EC2 computing on the cloud
 
 ## Tags
 > have different levels of videos
@@ -54,5 +55,5 @@
 - hack my life
 - code life
 - 10X coding
-- aws ec2 computing on the cloud
+
 
