@@ -12,9 +12,9 @@
    * [Calculator](calculator.md)
    * [Break web pages](break_web_pages.md)
    * [Super powers](super_powers.md)
+   * [Learn to type](learn_to_type.md)
    * [Ask Oracul](ask_oracul.md)
    * [BabelJS for prod](babeljs_for_prod.md)
-   * [Learn to type](learn_to_type.md)
 * [Brainstorming](brainstorming.md)
 * [Video](video.md)
 
