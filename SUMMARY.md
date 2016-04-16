@@ -14,6 +14,7 @@
    * [Super powers](super_powers.md)
    * [BabelJS for prod](babeljs_for_prod.md)
    * [Ask Oracul](ask_oracul.md)
+   * Learn to type
 * [Brainstorming](brainstorming.md)
 * [Video](video.md)
 
