@@ -12,3 +12,4 @@
 - speak naturally, as you were talking to a friend
 - speak as much as you want
 - don't read a script, be natural
+- don't speak too fast
